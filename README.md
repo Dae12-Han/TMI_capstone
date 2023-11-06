@@ -9,8 +9,9 @@ TMI 캡스톤
 1) 전처리된 데이터를 가져와 train/test/validation 데이터를 만든다
 2) AcousticSoundModel   
    CNN 모델/분류(classification) 모델   
-3) 학습
-4) train과 val 결과 
+3) 학습 
+4) train과 val 결과   
+문제점) overfitting 발생
 
    
 
