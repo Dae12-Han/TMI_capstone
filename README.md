@@ -3,7 +3,8 @@ TMI 캡스톤
 
 1. 전처리 코드   
    IMG_preprocessing.ipynb   
-2. 학습 코드
+2. 학습 코드   
+   train_code.ipynb
 
 학습코드 설명 => => =>
 1) 전처리된 데이터를 가져와 train/test/validation 데이터를 만든다
